@@ -1,0 +1,1 @@
+# Pixelinfo---Ferramenta-de-Medi-o-de-Pixels
